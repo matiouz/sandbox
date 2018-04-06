@@ -1,2 +1,4 @@
 another commit in master
 init the file
+add something at the end
+something else
