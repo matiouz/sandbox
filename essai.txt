@@ -2,6 +2,7 @@ another commit in master
 juste un test
 encore autre chose
 init the file
+aussi
 juste pour test
 add something at the end
 et encore aussi
